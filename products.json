@@ -1,0 +1,11 @@
+{
+    "Name" : "Nadir",
+    "Age" : 32,
+    "Location" : "Muscat",
+    "Orders" :{
+        "order1": ["BBQ", "Garlic", "Burger"],
+        "order2": ["Bread", "T-shirt", "Pepsi", "Water"],
+        "order3": ["Tree", "Lighter", "Cheese", "Laptop", "Shoes"]
+        
+    }
+}
